@@ -83,3 +83,15 @@ vector<Entity> Grid::neighbors(Entity entity) {
     const Entity &Grid::getFinish() const {
         return finish;
     }
+
+const vector<Entity> &Grid::getMPoints() const {
+    return m_points;
+}
+
+void Grid::setMPoints(const vector<Entity> &mPoints) {
+    m_points = mPoints;
+}
+
+Grid::Grid() {
+
+}

@@ -16,8 +16,10 @@ private:
     Entity start;
     Entity finish;
     vector<Entity> m_walls;
+    vector<Entity> m_points;
 
 public:
+    Grid();
     Grid(int mWight, int mHeight);
 
     virtual ~Grid();
@@ -43,6 +45,10 @@ public:
     const Entity &getStart() const;
 
     const Entity &getFinish() const;
+
+    const vector<Entity> &getMPoints() const;
+
+    void setMPoints(const vector<Entity> &mPoints);
 
 
 };

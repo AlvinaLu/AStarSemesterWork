@@ -10,7 +10,7 @@
 
 struct Priority {
 Entity entity;
-int priority;
+double priority;
 };
 bool operator>(Priority one, Priority two);
 bool operator<(Priority one, Priority two);
