@@ -1,0 +1,3 @@
+/home/alvina/Documents/C_plus/semak/semestalni-prace-pjc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alvina/Documents/C_plus/semak/semestalni-prace-pjc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alvina/Documents/C_plus/semak/semestalni-prace-pjc/cmake-build-debug/CMakeFiles/semestalni_prace_pjc.dir

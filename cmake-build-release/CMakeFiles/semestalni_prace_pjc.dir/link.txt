@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -std=c++14 -O3 -DNDEBUG   CMakeFiles/semestalni_prace_pjc.dir/main.cpp.o CMakeFiles/semestalni_prace_pjc.dir/Entity.cpp.o CMakeFiles/semestalni_prace_pjc.dir/Mapa.cpp.o CMakeFiles/semestalni_prace_pjc.dir/Result.cpp.o CMakeFiles/semestalni_prace_pjc.dir/Grid.cpp.o CMakeFiles/semestalni_prace_pjc.dir/Priority.cpp.o  -o semestalni_prace_pjc 
