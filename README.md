@@ -25,5 +25,7 @@ Napřiklad: ./cmake-build-release/semestalni_prace_pjc maps/map03.in --one_threa
 - Výsledky běhu programu a naměřené časy při porovnání jedno- / více- vláknové verze
 
     map01.in 15x15: 12 ms/7ms
+    
     map02.in 30x15: 40 ms/14ms
+    
     map02.in 30x30: 32 ms/16ms
